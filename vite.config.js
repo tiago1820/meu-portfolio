@@ -9,5 +9,5 @@ export default defineConfig({
       localsConvention: "camelCase",
     },
   },
-  base: "https://tiago1820.gitlab.io/tiago/",
+  base: "https://tiago1820.github.io/tiago/",
 });
