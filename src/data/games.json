@@ -2,7 +2,7 @@
   {
     "title": "Memory Game",
     "imageSrc": "projects/memorygame.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Juego de memoria con princesas Disney, hecho para mi hija Luana.",
     "skills": ["HTML","CSS","JavaScript"],
     "demo": "https://tiago1820.github.io/memory-game/",
     "source": "https://github.com/tiago1820/memory-game",
@@ -11,7 +11,7 @@
   {
     "title": "Flappy Eggman",
     "imageSrc": "projects/eggman.jpeg",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Una versión en desarrollo del juego Flappy Bird, adaptada con mi propio enfoque y mejoras.",
     "skills": ["HTML","CSS","JavaScript"],
     "demo": "https://tiago1820.github.io/flappy-eggman/",
     "source": "https://github.com/tiago1820/flappy-eggman",
