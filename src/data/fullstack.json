@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Care With Love",
+    "imageSrc": "projects/carewithlove.jpeg",
+    "description": "Plataforma de servicios de asistencia a la tercera edad (proyecto academico).",
+    "skills": ["React", "Node", "PostgreSQL"],
+    "demo": "https://proyecto-final-front-ashy.vercel.app/",
+    "source": "https://github.com/tiago1820/proyecto-final-back",
+    "category": "fullstack"
+  },
+  {
+    "title": "Pokemon Wiki",
+    "imageSrc": "projects/pokemon2.png",
+    "description": "La app ofrece funcionalidades avanzadas para buscar, visualizar y filtrar información de Pokémon de manera intuitiva e interactiva.",
+    "skills": ["React", "Node", "PostgreSQL"],
+    "demo": "https://pokemon-pi-phi.vercel.app/",
+    "source": "https://github.com/tiago1820/pokemon-pi",
+    "category": "fullstack"
+  }
+]

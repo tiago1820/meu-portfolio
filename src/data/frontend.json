@@ -1,0 +1,11 @@
+[
+  {
+    "title": "Character Select - Street Fighter II",
+    "imageSrc": "projects/streetfighter2.png",
+    "description": "Algun texto",
+    "skills": ["HTML","CSS","JavaScript"],
+    "demo": "https://tiago1820.github.io/character-select-sf2/",
+    "source": "https://github.com/tiago1820/character-select-sf2",
+    "category": "frontend"
+  }
+]

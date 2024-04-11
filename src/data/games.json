@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Memory Game",
+    "imageSrc": "projects/memorygame.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML","CSS","JavaScript"],
+    "demo": "https://tiago1820.github.io/memory-game/",
+    "source": "https://github.com/tiago1820/memory-game",
+    "category": "games"
+  },
+  {
+    "title": "Flappy Eggman",
+    "imageSrc": "projects/eggman.jpeg",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML","CSS","JavaScript"],
+    "demo": "https://tiago1820.github.io/flappy-eggman/",
+    "source": "https://github.com/tiago1820/flappy-eggman",
+    "category": "games"
+  }
+  ]
+  
