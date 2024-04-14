@@ -1,5 +1,14 @@
 [
   {
+    "title": "Rick And Morty Wiki",
+    "imageSrc": "projects/rickandmorty.png",
+    "description": "La aplicación ofrece funcionalidades avanzadas para buscar, visualizar y filtrar información sobre los personajes de la serie Rick and Morty. También cuenta con soporte para múltiples idiomas, incluyendo inglés, portugués y español.",
+    "skills": ["React", "Node", "PostgreSQL"],
+    "demo": "https://integrator-frontend.vercel.app/",
+    "source": "https://github.com/tiago1820/integrator-frontend",
+    "category": "fullstack"
+  },
+  {
     "title": "Care With Love",
     "imageSrc": "projects/carewithlove.jpeg",
     "description": "Plataforma de servicios de asistencia a la tercera edad (proyecto academico).",
