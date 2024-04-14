@@ -11,7 +11,7 @@ export const Hero = () => {
         <p className={styles.description}>
         un desarrollador full-stack con experiencia usando React y NodeJS. ¡Ponte en contacto para obtener mas información!
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="mailto:tiago.zdo@gmail.com" className={styles.contactBtn}>
           Contacto
         </a>
       </div>
