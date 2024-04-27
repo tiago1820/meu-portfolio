@@ -1,14 +1,5 @@
 [
   {
-    "title": "Portfolio",
-    "imageSrc": "projects/portfolio.png",
-    "description": "Un SPA  responsivo, ofreciendo una experiencia de usuario fluida en una sola página. Incluye proyectos full-stack, frontend y juegos.",
-    "skills": ["HTML","CSS", "JavaScript","React"],
-    "demo": "https://tiago1820.github.io/tiago/",
-    "source": "https://github.com/tiago1820/tiago",
-    "category": "frontend"
-  },
-  {
     "title": "Character Select - Street Fighter II",
     "imageSrc": "projects/streetfighter2.png",
     "description": "Reproducción de la pantalla de selección de personajes del juego Street Fighter II",
